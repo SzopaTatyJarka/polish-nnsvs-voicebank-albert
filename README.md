@@ -16,6 +16,7 @@ This library also supports Japanese hiragana input and allows for Japanese singi
 **Short information about the voicebank**
 * Language: [Polish](https://github.com/SzopaTatyJarka/nnsvs-polish-support)
 * Recording's range: A2 ~ E4
+* Tempo range: 78 ~ 130
 * Data amount: 1:17:13 / 22 songs
 
 More statistics can be found in the `STATS.ODS` included with the voicebank
