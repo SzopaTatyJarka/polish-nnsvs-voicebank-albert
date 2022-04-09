@@ -23,7 +23,7 @@ You shall not:
 
 **3. Miscellaneous**
 
-Please contact **stj@gmail.com** if:
+Please contact **stj@nagranie.com** if:
 * You wish to release media made including the voicebank under a commercial licence.
 * You wish to obtain the database used for training this voicebank.
 * You wish to use rendered audio from this voicebank for any non-commercial or commercial applications other than stated in **point one**.
