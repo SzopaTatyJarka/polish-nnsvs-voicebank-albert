@@ -1,0 +1,46 @@
+Vowels
+i - cIs
+y - bYłY
+e - zlEw
+a - bAr
+o - sOk
+u - znÓw / Ul
+E - kĘs
+A - kĄs
+
+Consonants
+p - Pas
+b - Brat
+t - Takt
+d - Dąb
+k - Kul
+g - Garb
+f - Fajka
+w - Wuj
+s - Syk
+z - Ząb
+sz - SZyć
+Z - Żyć
+S - SIadł
+X - Zima
+h - CHór / Hel
+c - Car
+dz - wiDZ
+cz - CZar
+dZ - DŻins
+C - Cis
+dX - DZik
+m - Mak
+n - Nać
+N - Nic / NIe
+l - Luz
+r - Ryż
+L - Łuk
+j - Jak
+
+Lesser used consonants
+ng - baNk / tyNk / spiNka
+H - nieCHby
+J - baŃka / koŃce
+
+* Note these consonants can be replaced with "n / h / N" respectively and left to be guessed by a NN contextually. These are provided to enable more accurate labelling transcriptions and allow control over the subtle pronunciation of words.
