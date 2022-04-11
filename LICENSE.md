@@ -1,11 +1,12 @@
 # Terms Of Use
-**(Last Revision 2022/4/8)**
+**(Last Revision 2022/4/11)**
 
 **1. Permissions**
 
-You may use the voicebank for:
-* Various media including Music, Films, Podcasts, Websites, and other forms of it.
-* Publish media made using the voicebank, provided said media is exclusively non-commercial. It would be appreciated if you [cited](https://github.com/SzopaTatyJarka/polish-nnsvs-voicebank-albert) the project in the description of your media.
+You may:
+* Use the voicebank for various media including Music, Covers, Podcasts, Films, Websites, and other forms.
+* Publish media made using synthesized audio from the voicebank, provided said media is exclusively non-commercial. 
+* Mention voicebank's codename "Albert AI" in the desription of your media. It would be appreciated if you also [cited](https://github.com/SzopaTatyJarka/polish-nnsvs-voicebank-albert) the project.
 
 **2. Forbids** 
 
@@ -18,18 +19,18 @@ You are not allowed to use the voicebank for:
 
 You shall not:
 * Re-distribute the voicebank in any form.
-* Use synthesized voice from this voicebank for other singing algorithms or applications.
+* Use synthesized audio from this voicebank for other singing algorithms or applications.
 * Ask to reveal the identity of the voicer or any kind of their personal details.
 
 **3. Miscellaneous**
 
 Please contact **stj@nagranie.com** if:
-* You wish to release media made including the voicebank under a commercial licence.
+* You wish to release media made including voicebank's synthesized audio under a commercial licence.
 * You wish to obtain the database used for training this voicebank.
-* You wish to use rendered audio from this voicebank for any non-commercial or commercial applications other than stated in **point one**.
+* You wish to use synthesized audio from this voicebank for any non-commercial or commercial applications other than stated in **point one**.
 
 Please pull a request under this voicebank's distribution page if:
-* You have various questions regarding usage, quality or have doubts about anything else. 
+* You have various questions regarding usage, quality, or have doubts about anything else related to the voicebank. 
 
 **a)** SzopaTatyJarka will not take responsibility for any kind of loss or damage caused by the voicebank and any problematic content created with it through breaking the terms stated in **point two**.
 
