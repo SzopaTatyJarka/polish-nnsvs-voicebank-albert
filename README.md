@@ -9,16 +9,16 @@ This is an NNSVS library for the Polish language created using a dataset recorde
 ![scr2](https://user-images.githubusercontent.com/101723985/162490393-ed39c53a-fbd9-4dae-a648-bc864960bd4f.png)
 
 
-It's recommended to use the voicebank with OpenUTAU as it allows for flexible vocal editing, live playback and more. *The timing estimation is a tad flawed, although this will change with time*
+It's recommended to use the voicebank with OpenUTAU as it allows for flexible vocal editing, live playback and more. *The timing estimation is a tad flawed, although this will change with time*. If using UTAU, ENUNU ver.0.2.5 is recommended for more accurate timing estimation.
 
 This library also supports Japanese hiragana input and allows for Japanese singing with an accent.
 
 **Short information about the voicebank**
 * Language: [Polish](https://github.com/SzopaTatyJarka/nnsvs-polish-support)
 * Recorded pitch range: A2 ~ E4
-* Recorded tempo range: 78 ~ 130
+* Recorded tempo range: 78 ~ 130 BPM
 * Data amount: 1:17:13 / 22 songs
 
 More statistics can be found in the `STATS.ODS` included with the voicebank
 
-Additionally, we included a fan-art package, which contains voice character interpretations from various artists. Those artworks are included for fun and to commemorate the drawings. 
+Additionally, we included a fan-art package, which contains voice character interpretations from various artists. Those artworks are included for fun and to commemorate the drawings made by the community.
