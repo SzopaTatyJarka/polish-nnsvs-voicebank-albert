@@ -1,6 +1,11 @@
 # polish-nnsvs-voicebank-albert
 This is an NNSVS library for the Polish language created using a dataset recorded from a classically trained baritone. It's intended to use with a compatible software like [ENUNU](https://github.com/oatsu-gh/ENUNU) or [OpenUTAU](https://github.com/stakira/OpenUtau). References on how to use the voicebank can be found in the `readme.txt` and `SzopaTatyJarka PL NN Phoneme set.txt`. The library also comes with 5 example score files to test the voicebank on.
 
+*Example render*
+
+https://user-images.githubusercontent.com/101723985/164775616-4cd2e132-fcef-4ae1-9d5a-3260c2ac2e5c.mp4
+
+
 *Usage example in UTAU*
 ![scr1](https://user-images.githubusercontent.com/101723985/162490404-a71cdf63-9dc9-43b9-b4ff-15fe3b81af56.png)
 
