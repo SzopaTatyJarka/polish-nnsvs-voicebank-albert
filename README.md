@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/101723985/164775616-4cd2e132-fcef-4ae1
 ![scr2](https://user-images.githubusercontent.com/101723985/162490393-ed39c53a-fbd9-4dae-a648-bc864960bd4f.png)
 
 
-It's recommended to use the voicebank with OpenUTAU as it allows for flexible vocal editing, live playback and more. *The timing estimation is a tad flawed, although this will change with time*. If using UTAU, ENUNU ver.0.2.5 is recommended for more accurate timing estimation.
+It's recommended to use the voicebank with OpenUTAU as it allows for flexible vocal editing, live playback and more. If using UTAU, ENUNU ver.0.2.5 is recommended for more accurate timing estimation.
 
 This library also supports Japanese hiragana input and allows for Japanese singing with an accent.
 
